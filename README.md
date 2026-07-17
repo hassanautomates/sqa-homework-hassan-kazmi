@@ -68,5 +68,5 @@ See [`artifacts/ai-workflow.md`](artifacts/ai-workflow.md).
 - [x] `artifacts/data-checks.md` included (≤ 300 words + SQL)
 - [x] `artifacts/ai-workflow.md` included (≤ 300 words, all 4 questions answered)
 - [x] `artifacts/report/` included
-- [ ] `artifacts/demo.mp4` included (60–90 sec, narrated) — **to record last**
+- [x] `artifacts/demo.mp4` included (60–90 sec, narrated)
 - [x] Commit history shows how the work evolved
