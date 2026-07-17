@@ -5,6 +5,7 @@
   "description": "Pre-login QA suite for the Permission Agent at ask.permission.ai",
   "scripts": {
     "test": "playwright test",
+    "test:headed": "playwright test --headed",
     "report": "playwright show-report artifacts/report",
     "codegen": "playwright codegen https://ask.permission.ai"
   },

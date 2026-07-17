@@ -10,7 +10,8 @@ Requires Node ≥ 18. From a clean clone:
 ```bash
 npm ci
 npx playwright install chromium     # one browser is all the suite needs
-npm test                            # runs the 8 tests against the live site
+npm test                            # runs the 8 tests against the live site (headless)
+npm run test:headed                 # optional: watch the browser drive the site
 npm run report                      # opens the generated HTML report
 ```
 
