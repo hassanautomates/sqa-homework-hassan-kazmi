@@ -63,7 +63,7 @@ See [`artifacts/ai-workflow.md`](artifacts/ai-workflow.md).
 - [x] README word count ≤ 500 (excluding commands/checkboxes)
 - [x] Max 8 tests; all 4 required behaviours covered
 - [x] `artifacts/assertions.md` included (≤ 300 words)
-- [ ] `artifacts/ux-review.md` included (≤ 400 words, desktop + mobile, **post-signup pass pending**)
+- [x] `artifacts/ux-review.md` included (≤ 400 words, desktop + mobile, post-signup)
 - [x] `artifacts/data-checks.md` included (≤ 300 words + SQL)
 - [x] `artifacts/ai-workflow.md` included (≤ 300 words, all 4 questions answered)
 - [x] `artifacts/report/` included
