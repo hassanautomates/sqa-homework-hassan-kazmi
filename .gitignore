@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright/.cache/
+.DS_Store
+
+# Playwright's default report dir; we publish the report to artifacts/report/ instead (committed).
+playwright-report/

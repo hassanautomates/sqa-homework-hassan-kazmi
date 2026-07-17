@@ -1,0 +1,14 @@
+{
+  "name": "sqa-homework-hassan-kazmi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pre-login QA suite for the Permission Agent at ask.permission.ai",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report artifacts/report",
+    "codegen": "playwright codegen https://ask.permission.ai"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
